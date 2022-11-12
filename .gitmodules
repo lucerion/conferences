@@ -1,0 +1,3 @@
+[submodule "slides"]
+	path = ruby-makes-you-happy/slides
+	url = git@github.com:lerarybak/ruby-makes-you-happy.git
