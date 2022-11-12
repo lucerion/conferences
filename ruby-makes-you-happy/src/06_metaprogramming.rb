@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 class Payment
   STATUSES = ['pending', 'processed', 'cancelled']
 
