@@ -1,4 +1,4 @@
-[Слайды](https://github.com/lerarybak/ruby-makes-you-happy)
+> [Слайды](https://github.com/lerarybak/ruby-makes-you-happy)
 
 # Ruby
 
