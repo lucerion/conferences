@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 class Fixnum
   def +(value)
     self - value

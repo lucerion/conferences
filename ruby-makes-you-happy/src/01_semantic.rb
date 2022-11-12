@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 p 1 + 1
 p 1.class
 

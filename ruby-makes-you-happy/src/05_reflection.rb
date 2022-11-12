@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 class A
   def test
     puts 'test'
