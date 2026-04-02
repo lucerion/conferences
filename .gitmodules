@@ -1,3 +1,6 @@
 [submodule "slides"]
 	path = ruby-makes-you-happy/slides
 	url = git@github.com:lerarybak/ruby-makes-you-happy.git
+[submodule "html-over-the-wire/examples"]
+	path = html-over-the-wire/examples
+	url = git@github.com:lucerion/real-time-auction.git
